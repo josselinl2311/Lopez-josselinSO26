@@ -1,2 +1,2 @@
-# LopezJosselinSO26
+# LopezJosselin_SO26B
 Repositorio para la UA de SO26B de evidencias del periodo 
